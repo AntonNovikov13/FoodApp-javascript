@@ -1,0 +1,54 @@
+body {
+    background-color: #0d2135;
+    color: #f4f4f4;
+}
+
+.header {
+    background-color: #373737;
+    color: #f4f4f4;
+    
+}
+
+.header__link {
+    color: #f4f4f4;
+}
+.header__link:after  {
+    background-color: #0d2135;
+}
+.tabheader {
+    background-color: #0d2135;
+    color: #f4f4f4;
+}
+.tabheader__item {
+    color: #f4f4f4;
+}
+
+.theme-button {
+    color: #f4f4f4;
+    background-color: #4f7faf;
+}
+
+.theme-button:hover {
+    background-color: #6f9fcf;
+}
+
+
+.calculating__field .calculating__choose-item {
+    color: #111;
+}
+.menu__item {
+    background-color: #0d2135;
+    color: #f4f4f4;
+}
+
+.footer {
+    background-color: #0d2135;
+}
+
+.timer__block {
+    background-color: #0d2135;
+    color: #111;
+}
+.modal__title {
+    color: #111;
+}
